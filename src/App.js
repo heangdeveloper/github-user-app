@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { format } from 'date-fns'
+import Moment from "moment";
 
 import Avatar from './assets/avatar.png'
 import SearchIcon from './assets/icon-search.svg'
@@ -74,7 +74,9 @@ function App() {
                                     {!data.created_at ? (
                                         <span className="profile_date">Not Available</span>
                                     ) : (
-                                        <span className="profile_date">Joined {data.created_at}</span>
+                                        <span className="profile_date">
+                                            Joined {Moment(data.created_at).format("DD MMM YYYY")}
+                                        </span>
                                     )}
                                 </div>
                             </div>
