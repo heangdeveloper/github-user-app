@@ -15,4 +15,5 @@
 </ol>
 
 ## Screenshot
-![mobile](https://user-images.githubusercontent.com/78833317/196582939-16604129-c81e-4d18-9ba4-c6b791a94603.png)
+
+![mobile (3)](https://user-images.githubusercontent.com/78833317/196583235-9412fc15-aab8-4272-a503-dccedd4a44b2.png)
