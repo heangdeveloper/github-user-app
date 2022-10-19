@@ -13,3 +13,6 @@
         <code>npm start</code>
     </li>
 </ol>
+
+## Screenshot
+![mobile](https://user-images.githubusercontent.com/78833317/196582939-16604129-c81e-4d18-9ba4-c6b791a94603.png)
